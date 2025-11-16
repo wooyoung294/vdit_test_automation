@@ -1,5 +1,5 @@
 ## VDIT 테스트 자동화
- - VDIT 앱의 아래 3가지 시나리오 항목을 Appium을 이용해 BDD 방식으로 테스트 자동화를 구현하고 테스트 결과를 Allure-report를 이용해 출력한 프로젝트 입니다.  
+ - VDIT 앱의 아래 3가지 시나리오를 Appium과 Pytest 이용해 BDD 방식으로 테스트 자동화를 구현하고 테스트 결과를 Allure-report를 이용해 출력한 프로젝트 입니다.  
 
 ### TestReport : vdit.wooyoung.site
  - 각 케이스의 Teardown에 첨부된 영상은 맥북에서 실행해주시면 감사하겠습니다.
