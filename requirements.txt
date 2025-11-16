@@ -1,0 +1,7 @@
+appium-python-client
+pytest==8.4.1
+allure-pytest
+pillow
+python-dotenv
+selenium==4.35.0
+pytest-selenium==4.1.0
